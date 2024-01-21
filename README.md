@@ -9,10 +9,16 @@ In this lab below components are covered using the Terraform:
 Create an Amazon Virtual Private Cloud (VPC)
 
 Create a public and private subnets
+
 Create an Internet gateway
+
 Create a Route Table and add a route to the Internet
+
 Create a security group for your web server to only allow HTTP traffic to your web server
+
 Create a security group for your MySQL RDS instance to only allow MySQL traffic from your public subnet
+
 Deploy a web server and a MySQL RDS instance
+
 Configure your application to connect to your MySQL RDS instance
 
