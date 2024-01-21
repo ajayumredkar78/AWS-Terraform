@@ -7,6 +7,7 @@ The VPC that you build includes a web server and an Amazon RDS database. Once yo
 In this lab below components are covered using the Terraform:
 
 Create an Amazon Virtual Private Cloud (VPC)
+
 Create a public and private subnets
 Create an Internet gateway
 Create a Route Table and add a route to the Internet
